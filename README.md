@@ -13,6 +13,7 @@ Make sure you have jupyter notebooks installed. You can find instructions [here]
 * Scipy
 * Matplotlib
 * Pandas
+* Pillow
 
 ## Instructions
 1. Please download the exercises (pdf) from the Coursera course. Some instructions are included in the Notebooks. 
@@ -24,6 +25,6 @@ All code, exercises, data and other files in this repo are ©Stanford University
 
 The code was 'translated' to Python by Rick Wierenga. Some of the instructions are modified to better fit the Python ecosystem by me too. The data, background information or the intended exercise are the same.
 
---- 
+---
 
 &copy;2019 Rick Wierenga

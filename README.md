@@ -17,8 +17,8 @@ Make sure you have jupyter notebooks installed. You can find instructions [here]
 
 ## Instructions
 1. Please download the exercises (pdf) from the Coursera course. Some instructions are included in the Notebooks. 
-2. Complete the exercises in the `ex*/Exercise - *.ipynb` Notebook.
-3. Compare your answers to the code in `ex*/Solutions - *.ipynb` Notebook.
+2. Complete the exercises in the exercises Notebook.
+3. Compare your answers to the code in solutions Notebook.
 
 ## Copyright Notice
 All code, exercises, data and other files in this repo are ©Stanford University. If you are unhappy about me hosting these files on GitHub for educational purposes, please send me an email.

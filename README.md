@@ -23,7 +23,7 @@ Make sure you have jupyter notebooks installed. You can find instructions [here]
 ## Copyright Notice
 All code, exercises, data and other files in this repo are ©Stanford University. If you are unhappy about me hosting these files on GitHub for educational purposes, please send me an email.
 
-The code was 'translated' to Python by Rick Wierenga. Some of the instructions are modified to better fit the Python ecosystem by me too. The data, background information or the intended exercise are the same.
+The code was 'translated' to Python by Rick Wierenga. Some of the instructions are modified to better fit the Python ecosystem by me too. The data, background information and the intended exercise are the same.
 
 ---
 

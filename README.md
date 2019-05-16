@@ -9,11 +9,11 @@ Please note that your solutions won't be graded and are not affiliated to Course
 
 ## Installation
 Make sure you have jupyter notebooks installed. You can find instructions [here](https://jupyter.org/install). The following Python packages are used:
-* Numpy
-* Scipy
-* Matplotlib
-* Pandas
-* Pillow
+* [Numpy](https://www.numpy.org)
+* [Scipy](https://www.scipy.org)
+* [Matplotlib](https://matplotlib.org)
+* [Pandas](https://pandas.pydata.org)
+* [Pillow](https://python-pillow.org)
 
 ## Instructions
 1. Please download the exercises (pdf) from the Coursera course. Some instructions are included in the Notebooks. 

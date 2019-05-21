@@ -9,11 +9,11 @@ Please note that your solutions won't be graded and are not affiliated to Course
 
 ## Installation
 Make sure you have jupyter notebooks installed. You can find instructions [here](https://jupyter.org/install). The following Python packages are used:
-* Numpy
-* Scipy
-* Matplotlib
-* Pandas
-* Pillow
+* [Numpy](https://www.numpy.org)
+* [Scipy](https://www.scipy.org)
+* [Matplotlib](https://matplotlib.org)
+* [Pandas](https://pandas.pydata.org)
+* [Pillow](https://python-pillow.org)
 
 ## Instructions
 1. Please download the exercises (pdf) from the Coursera course. Some instructions are included in the Notebooks. 
@@ -23,7 +23,7 @@ Make sure you have jupyter notebooks installed. You can find instructions [here]
 ## Copyright Notice
 All code, exercises, data and other files in this repo are ©Stanford University. If you are unhappy about me hosting these files on GitHub for educational purposes, please send me an email.
 
-The code was 'translated' to Python by Rick Wierenga. Some of the instructions are modified to better fit the Python ecosystem by me too. The data, background information or the intended exercise are the same.
+The code was 'translated' to Python by Rick Wierenga. Some of the instructions are modified to better fit the Python ecosystem by me too. The data, background information and the intended exercise are the same.
 
 ---
 

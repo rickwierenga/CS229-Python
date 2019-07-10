@@ -14,11 +14,20 @@ Make sure you have jupyter notebooks installed. You can find instructions [here]
 * [Matplotlib](https://matplotlib.org)
 * [Pandas](https://pandas.pydata.org)
 * [Pillow](https://python-pillow.org)
+* [Natural Language Toolkit](http://www.nltk.org)
 
 ## Instructions
 1. Please download the exercises (pdf) from the Coursera course. Some instructions are included in the Notebooks. 
 2. Complete the exercises in the exercises Notebook.
 3. Compare your answers to the code in solutions Notebook.
+
+## Contents
+1. Linear Regression
+2. Logistic Regression & Regularization
+3. Multiclass Classifcation & Neural Networks
+4. Neueral Networks Learning
+5. Regularized Linear Regression and Bias v.s. Variance
+6. Support Vector Machines
 
 ## Copyright Notice
 All code, exercises, data and other files in this repo are ©Stanford University. If you are unhappy about me hosting these files on GitHub for educational purposes, please send me an email.

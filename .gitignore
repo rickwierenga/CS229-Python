@@ -5,5 +5,4 @@ __pycache__/
 *.pyc
 *.swp
 *.swo
-/ex1/.main.py.swp
 .ipynb_checkpoints

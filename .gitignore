@@ -7,3 +7,4 @@ __pycache__/
 *.swo
 /ex1/.main.py.swp
 .ipynb_checkpoints
+env/

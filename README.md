@@ -8,13 +8,20 @@ Please check out the [course website](http://cs229.stanford.edu/) and the [Cours
 Please note that your solutions won't be graded and are not affiliated to Coursera in any way. If your answers differ from mine and you argue that yours are better, please create an issue on [GitHub](https://www.github.com/rickwierenga/CS229-Pytohon).
 
 ## Installation
-Make sure you have jupyter notebooks installed. You can find instructions [here](https://jupyter.org/install). The following Python packages are used:
+Make sure you have jupyter notebooks installed. You can find instructions [here](https://jupyter.org/install). 
+
+The following Python packages are used:
 * [Numpy](https://www.numpy.org)
 * [Scipy](https://www.scipy.org)
 * [Matplotlib](https://matplotlib.org)
 * [Pandas](https://pandas.pydata.org)
 * [Pillow](https://python-pillow.org)
 * [Natural Language Toolkit](http://www.nltk.org)
+
+You can install all dependencies using:
+```shell
+python3 -m pip install -r requirements.txt
+```
 
 ## Instructions
 1. Please download the exercises (pdf) from the Coursera course. Some instructions are included in the Notebooks. 

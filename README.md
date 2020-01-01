@@ -43,4 +43,4 @@ The code was 'translated' to Python by Rick Wierenga. Some of the instructions a
 
 ---
 
-&copy;2019 Rick Wierenga
+&copy;2020 Rick Wierenga

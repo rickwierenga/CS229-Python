@@ -1,5 +1,3 @@
-> This is a WIP. I'm currently doing the course.
-
 # Stanford CS229 Machine Learning in Python
 This repository contains the problem sets as well as the solutions for the Stanford CS229 - Machine Learning course on Coursera written in Python 3. Some additional notes taken by me are also included.
 
@@ -35,6 +33,8 @@ python3 -m pip install -r requirements.txt
 4. Neueral Networks Learning
 5. Regularized Linear Regression and Bias v.s. Variance
 6. Support Vector Machines
+7. K-means Clustering and Principal Component Analysis
+8. Anomaly Detection and Recommender Systems
 
 ## Copyright Notice
 All code, exercises, data and other files in this repo are ©Stanford University. If you are unhappy about me hosting these files on GitHub for educational purposes, please send me an email.
@@ -43,4 +43,4 @@ The code was 'translated' to Python by Rick Wierenga. Some of the instructions a
 
 ---
 
-&copy;2019 Rick Wierenga
+&copy;2020 Rick Wierenga
